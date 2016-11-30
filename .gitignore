@@ -3,6 +3,11 @@ archive/
 data/
 local/
 
+# Data file types
+*.mtx
+*.hdf5
+*.pickle
+
 # OS
 .DS_Store
 
